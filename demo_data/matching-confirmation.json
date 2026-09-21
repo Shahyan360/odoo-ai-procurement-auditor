@@ -1,0 +1,15 @@
+{
+  "currency": "USD",
+  "items": [
+    {
+      "product_code": "COTTON-ROLL",
+      "vendor_sku": "V-COTTON",
+      "description": "Fictional Cotton Roll",
+      "quantity": "10",
+      "unit_price": "20",
+      "uom": "Units",
+      "line_total": "200"
+    }
+  ],
+  "subtotal": "200"
+}

@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-28",
+  "project": "09-AI-Procurement-Auditor",
+  "files": [
+    {
+      "path": ".dockerignore",
+      "bytes": 31,
+      "sha256": "46cd4f885de55ea9d7df929f1aec7ecc39f9f6741a8957f1dd87b876e6bb1cd9"
+    },
+    {
+      "path": ".env.example",
+      "bytes": 487,
+      "sha256": "39cd27bc0c26d2e076617caed1053553f1cc0f0e0e28ae3bdfe7e0e0fa9c408c"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 317,
+      "sha256": "6aba688207846b67a565fe4047449842b6ee9f61ecfe2a6ca4290f233895c1cd"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 43880,
+      "sha256": "f6c2e871332e4d0139fe7dce41725fb245f0735aa25fd62835de34f057b530a8"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2755,
+      "sha256": "7a4b2b2c093a10579403a6892454be6bc4f45a9f41303a6b17e8256aa2c5ad07"
+    },
+    {
+      "path": "addons/procurement_auditor/__init__.py",
+      "bytes": 22,
+      "sha256": "e7f646db385de3561532169583a9437aa771a7d75ff1843251d0c618925ecd55"
+    },
+    {
+      "path": "addons/procurement_auditor/__manifest__.py",
+      "bytes": 465,
+      "sha256": "7b296b1c5c1f2f5a53ffb9acd5f67065b56462617e0e2567ee25eb3282f76644"
+    },
+    {
+      "path": "addons/procurement_auditor/common.py",
+      "bytes": 1833,
+      "sha256": "9276ea7658cd8a0a02b3d4976447fbdec714963cc2d64c4bb41afa893f1d8835"
+    },
+    {
+      "path": "addons/procurement_auditor/demo/fixtures.xml",
+      "bytes": 1144,
+      "sha256": "f526963d093c9943ea185c8918a15994a8f6875fd1b518a8121a7cda3de0dc29"
+    },
+    {
+      "path": "addons/procurement_auditor/models/__init__.py",
+      "bytes": 26,
+      "sha256": "2c7160cafca973286dc252f27bb176eb0dbe5ee45d4cb87116dac9b296fec0a5"
+    },
+    {
+      "path": "addons/procurement_auditor/models/operations.py",
+      "bytes": 17952,
+      "sha256": "3e7f11d28842cebab460578af763349a7f39025f55247aa55916017d6da6a515"
+    },
+    {
+      "path": "addons/procurement_auditor/reports/summary.xml",
+      "bytes": 1063,
+      "sha256": "269781b899bf76583b0b828fafaa9504151c7f7eac2c0ea1311403ab9467eb1b"
+    },
+    {
+      "path": "addons/procurement_auditor/security/groups.xml",
+      "bytes": 569,
+      "sha256": "a9d7e80a4c6d4016fdee74bfec14e32dafae52dcb224d9ab5f7d686e738253b0"
+    },
+    {
+      "path": "addons/procurement_auditor/security/ir.model.access.csv",
+      "bytes": 1150,
+      "sha256": "37eb9a17847fcea796417a9c5bde36e27ac5a88a677d0f432f4612d2e7747375"
+    },
+    {
+      "path": "addons/procurement_auditor/security/rules.xml",
+      "bytes": 1099,
+      "sha256": "d47d63f693af694fe4008121ac5ba62530c9a075b5317675138584b763b9c451"
+    },
+    {
+      "path": "addons/procurement_auditor/views/operations.xml",
+      "bytes": 4233,
+      "sha256": "032b32ce2f5b294c42727d4ab24f693aa12a8046cb6b82fab10620bbbbc5cf35"
+    },
+    {
+      "path": "addons/procurement_auditor/views/purchase.xml",
+      "bytes": 563,
+      "sha256": "2b8a752f5d501299273a53bdc958db85dada1327df0c7679a035bac85b9e4554"
+    },
+    {
+      "path": "demo_data/discrepant-confirmation.json",
+      "bytes": 303,
+      "sha256": "fd28020c742e9614f87514905242e825babf05443a47ce1b806539178fa4902d"
+    },
+    {
+      "path": "demo_data/matching-confirmation.json",
+      "bytes": 303,
+      "sha256": "32c419d8d97101f92e7d0d9e0ab56b2c11afb0880e50ab0c0f67387f15738c8c"
+    },
+    {
+      "path": "docker/Dockerfile",
+      "bytes": 127,
+      "sha256": "e6a7952bd20bd46524184408793875ed4dd2fa7a13a0887035ae5fe1ff79bc03"
+    },
+    {
+      "path": "docker/compose.yaml",
+      "bytes": 1503,
+      "sha256": "6cec132a37778716b3eea606e327a102f058c20b4ecf51564412cffaba8092d2"
+    },
+    {
+      "path": "docker/images.lock.json",
+      "bytes": 340,
+      "sha256": "ff96425e9e3e927df20d450274077ce6ce4803288173bf205a4d4a1c99e940d8"
+    },
+    {
+      "path": "docs/FEATURES.md",
+      "bytes": 2174,
+      "sha256": "110c51768712e66302476eab127c5fb682bc33b736569348217744ec781dcd6a"
+    },
+    {
+      "path": "docs/VERIFICATION.md",
+      "bytes": 831,
+      "sha256": "083f33615715caeee1122ee365051cfdaed36e8e233a252db9432b92afd7f88a"
+    },
+    {
+      "path": "requirements-extra.txt",
+      "bytes": 18,
+      "sha256": "07e21eb143f11bcc5b8a1c247c0e28048282c806175e3497bb58e2768b7e94c4"
+    },
+    {
+      "path": "scripts/bootstrap.py",
+      "bytes": 1389,
+      "sha256": "93e09b8145b26442d5b5b41714892f86fa5726684a224d24b7d4963fc50fc57a"
+    },
+    {
+      "path": "scripts/lab.ps1",
+      "bytes": 1321,
+      "sha256": "99156791d1a8cdde8966e3e2990f04c8a25a47dd7c7b41403bffde8ecf9e42e9"
+    },
+    {
+      "path": "scripts/publication_audit.py",
+      "bytes": 7029,
+      "sha256": "f0166f392e5abfd13f183db6f257e7d64ff2e122d0db12cbf76724246a721c5f"
+    },
+    {
+      "path": "scripts/seed.py",
+      "bytes": 536,
+      "sha256": "3bce0c54d17d4ea7b54e966bf7c43d03fa2987b604c07797389c8416d1e2d187"
+    }
+  ],
+  "excluded": [],
+  "symlinks": [],
+  "findings": []
+}
